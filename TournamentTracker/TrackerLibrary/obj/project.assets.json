@@ -8,26 +8,28 @@
     ".NETCoreApp,Version=v3.1": []
   },
   "packageFolders": {
-    "C:\\Users\\17147\\.nuget\\packages\\": {}
+    "/Users/derekho/.nuget/packages/": {},
+    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\17147\\OneDrive\\Desktop\\PingPong\\TournamentTracker\\TrackerLibrary\\TrackerLibrary.csproj",
+      "projectUniqueName": "/Users/derekho/Desktop/newCode/PingPongTournament/TournamentTracker/TrackerLibrary/TrackerLibrary.csproj",
       "projectName": "TrackerLibrary",
-      "projectPath": "C:\\Users\\17147\\OneDrive\\Desktop\\PingPong\\TournamentTracker\\TrackerLibrary\\TrackerLibrary.csproj",
-      "packagesPath": "C:\\Users\\17147\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\17147\\OneDrive\\Desktop\\PingPong\\TournamentTracker\\TrackerLibrary\\obj\\",
+      "projectPath": "/Users/derekho/Desktop/newCode/PingPongTournament/TournamentTracker/TrackerLibrary/TrackerLibrary.csproj",
+      "packagesPath": "/Users/derekho/.nuget/packages/",
+      "outputPath": "/Users/derekho/Desktop/newCode/PingPongTournament/TournamentTracker/TrackerLibrary/obj/",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\17147\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "/Users/derekho/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -60,7 +62,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.406\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.404/RuntimeIdentifierGraph.json"
       }
     }
   }
