@@ -1,0 +1,5 @@
+/Users/derekho/Desktop/newCode/PingPongTournament/TournamentTracker/TrackerLibrary/obj/Debug/netcoreapp3.1/TrackerLibrary.csproj.AssemblyReference.cache
+/Users/derekho/Desktop/newCode/PingPongTournament/TournamentTracker/TrackerLibrary/obj/Debug/netcoreapp3.1/TrackerLibrary.GeneratedMSBuildEditorConfig.editorconfig
+/Users/derekho/Desktop/newCode/PingPongTournament/TournamentTracker/TrackerLibrary/obj/Debug/netcoreapp3.1/TrackerLibrary.AssemblyInfoInputs.cache
+/Users/derekho/Desktop/newCode/PingPongTournament/TournamentTracker/TrackerLibrary/obj/Debug/netcoreapp3.1/TrackerLibrary.AssemblyInfo.cs
+/Users/derekho/Desktop/newCode/PingPongTournament/TournamentTracker/TrackerLibrary/obj/Debug/netcoreapp3.1/TrackerLibrary.csproj.CoreCompileInputs.cache
