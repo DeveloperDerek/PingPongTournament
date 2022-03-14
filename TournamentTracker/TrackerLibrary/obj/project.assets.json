@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\17147\\OneDrive\\Desktop\\PingPong\\TournamentTracker\\TrackerLibrary\\TrackerLibrary.csproj",
+      "projectUniqueName": "C:\\Users\\17147\\OneDrive\\Documents\\Projects\\PingPong\\TournamentTracker\\TrackerLibrary\\TrackerLibrary.csproj",
       "projectName": "TrackerLibrary",
-      "projectPath": "C:\\Users\\17147\\OneDrive\\Desktop\\PingPong\\TournamentTracker\\TrackerLibrary\\TrackerLibrary.csproj",
+      "projectPath": "C:\\Users\\17147\\OneDrive\\Documents\\Projects\\PingPong\\TournamentTracker\\TrackerLibrary\\TrackerLibrary.csproj",
       "packagesPath": "C:\\Users\\17147\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\17147\\OneDrive\\Desktop\\PingPong\\TournamentTracker\\TrackerLibrary\\obj\\",
+      "outputPath": "C:\\Users\\17147\\OneDrive\\Documents\\Projects\\PingPong\\TournamentTracker\\TrackerLibrary\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\17147\\AppData\\Roaming\\NuGet\\NuGet.Config",
